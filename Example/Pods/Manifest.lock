@@ -1,0 +1,16 @@
+PODS:
+  - JVDebugProcessorMacros (0.1.0)
+
+DEPENDENCIES:
+  - JVDebugProcessorMacros (from `../`)
+
+EXTERNAL SOURCES:
+  JVDebugProcessorMacros:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVDebugProcessorMacros: 4c8530ad8af4f59a4c7ba215b7e9adf1dd99bc54
+
+PODFILE CHECKSUM: 18e35f3daa467476ca3f8108a220976159655a0b
+
+COCOAPODS: 1.6.1

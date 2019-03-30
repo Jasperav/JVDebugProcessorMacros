@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVDebugProcessorMacros_Tests' do
+  pod 'JVDebugProcessorMacros', :path => '../'
+  
+  
+end
